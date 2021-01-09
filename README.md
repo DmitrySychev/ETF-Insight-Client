@@ -13,12 +13,12 @@ yarn install
 
 # Database
 
+```
 Backend portion of the application is required
 
 Clone and follow directions in the repo below to get the backend running
 
 Instructions coming soon
-
 ```
 
 # Run application 
