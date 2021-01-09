@@ -20,6 +20,7 @@ Clone and follow directions in the repo below to get the backend running
 Instructions coming soon
 
 ```
+
 # Run application 
 
 To run application execute the following command:
