@@ -1,4 +1,4 @@
-# ETF-Tracking - Frontend
+# ETF-Tracking - Client
 
 App for tracking ETF's and assosiated holdings.
 
